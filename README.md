@@ -1,5 +1,8 @@
 # nushell-warp
-Usable work in progress script to support [Nushell](https://github.com/nushell/nushell) in [Warp](https://github.com/warpdotdev/Warp/)
+Usable work in progress script to support [Nushell](https://github.com/nushell/nushell) in [Warp](https://github.com/warpdotdev/Warp/).  
+Only tested on Linux with unreleased versions of Nushell and Warp, so let me know if something doesn't work.
+
+
 ![image](https://github.com/UserSv4/nushell-warp/assets/70157095/aaf9b498-ceee-4378-8e8b-b15856fb4086)
 
 # Installation
